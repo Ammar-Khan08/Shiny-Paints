@@ -1,0 +1,74 @@
+Welcome to Shiny Paint Company for indoor painting!
+How many Rooms do you want to paint:
+3
+Thank you!
+Room: 1
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom (more or less than 4 walls, all square or rectangles)
+1
+Enter the length of the room in feet:
+16
+Enter the width of the room in feet:
+20
+Enter the height of the room in feet:
+15
+How many windows and doors does the room contain?
+2
+Enter the window/door length for window/door 1 in feet
+5
+Enter the window/door width for window/door 1 in feet
+12
+Enter the window/door length for window/door 2 in feet
+5
+Enter the window/door width for window/door 2 in feet
+8
+For Room: 1, the area to be painted is 980.0 square ft and will require 2.80 gallons to paint. This will cost the customer $117.60
+Room: 2
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom (more or less than 4 walls, all square or rectangles)
+2
+Enter the length of the room in feet:
+15
+How many windows and doors does the room contain?
+2
+Enter the window/door length for window/door 1 in feet
+5
+Enter the window/door width for window/door 1 in feet
+8 
+Enter the window/door length for window/door 2 in feet
+5
+Enter the window/door width for window/door 2 in feet
+12
+For Room: 2, the area to be painted is 800.0 square ft and will require 2.29 gallons to paint. This will cost the customer $96.00
+Room: 3
+Select the shape of the room:
+1 - Rectangular
+2 - Square
+3 - Custom (more or less than 4 walls, all square or rectangles)
+3
+How many walls are there in the room?
+3
+Enter the height of wall 1 in feet
+15
+Enter the length of wall 1 in feet
+12
+Enter the height of wall 2 in feet
+15
+Enter the length of wall 2 in feet
+10
+Enter the height of wall 3 in feet
+15
+Enter the length of wall 3 in feet
+12
+How many windows and doors does the room contain?
+1
+Enter the window/door length for window/door 1 in feet
+4
+Enter the window/door width for window/door 1 in feet
+10
+For Room: 3, the area to be painted is 470.0 square ft and will require 1.34 gallons to paint. This will cost the customer $56.40
+Area to be painted is 2250.00 square ft and will require 6.43 gallons to paint. This will cost the customer $270.00
